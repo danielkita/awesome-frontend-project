@@ -8,8 +8,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [ESLint](#eslint)
 * [Gitflow](#gitflow)
-* [Other tools](#other-tools)
+* [Monorepo](#monorepo)
 * [React](#react)
+* [Other tools](#other-tools)
 
 ### ESLint
 
