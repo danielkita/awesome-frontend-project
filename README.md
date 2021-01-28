@@ -28,7 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [Repo](https://github.com/eslint/eslint)
 * [Install](https://eslint.org/docs/user-guide/getting-started)
-* [AirBnB rules for TS](https://github.com/iamturns/eslint-config-airbnb-typescript)
+* [AirBnB's rules for TS](https://github.com/iamturns/eslint-config-airbnb-typescript)
 
 ### Gitflow
 
