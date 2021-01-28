@@ -6,12 +6,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Index
 
-* [Linters](#linters)
+* [ESLint](#eslint)
 * [Gitflow](#gitflow)
 * [Other tools](#other-tools)
 * [React](#react)
 
-### ESlint
+### ESLint
 
 * [Repo](https://github.com/eslint/eslint)
 * [Install](https://eslint.org/docs/user-guide/getting-started)
