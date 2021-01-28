@@ -1,6 +1,6 @@
 # Awesome Frontend Project [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome libraries, guides, blogs, and other resources to create the perfect frontend workflow.
+A curated list of awesome libraries, guides, blogs, and other resources to create a perfect frontend workflow.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
