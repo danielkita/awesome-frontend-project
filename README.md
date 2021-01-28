@@ -9,6 +9,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Linters](#linters)
 * [Gitflow](#gitflow)
 * [Other tools](#other-tools)
+* [React](#react)
 
 ### ESlint
 
