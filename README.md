@@ -37,6 +37,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [cz-cli](https://github.com/commitizen/cz-cli)
 * [cz template for jira](https://github.com/digitalroute/cz-conventional-changelog-for-jira)
 * [cz-lerna-changelog](https://github.com/atlassian/cz-lerna-changelog)
+* [.gitignore](https://gist.github.com/markbrouch/1026ed545d306febcea4)
 
 ### Monorepo
 
