@@ -62,11 +62,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [CRACO](https://github.com/gsoft-inc/craco)
 * [Next.js](https://github.com/vercel/next.js)
 
-### IDE
-
-* [WebStorm](https://www.jetbrains.com/webstorm/)
-* [Material Theme UI - Theme for Webstorm](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
-
 ### Style
 
 * [Styled Components](https://github.com/styled-components/styled-components)
@@ -75,6 +70,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [Husky](https://github.com/typicode/husky)
 * [Prettier](https://github.com/prettier/prettier)
+
+### IDE
+
+* [WebStorm](https://www.jetbrains.com/webstorm/)
+* [Material Theme UI - Theme for Webstorm](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
 
 ## Articles, books, extras...
 
