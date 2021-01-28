@@ -11,6 +11,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Design system](#design-system)
   * [Testing](#testing)
   * [React](#react)
+  * [IDE](#ide)
   * [Other tools](#other-tools)
 * [Articles](#articles)
 
@@ -54,11 +55,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [CRA](https://github.com/facebook/create-react-app)
 * [CRACO](https://github.com/gsoft-inc/craco)
 
+### IDE
+
+* [WebStorm](https://www.jetbrains.com/webstorm/)
+* [Material Theme UI - Theme for Webstorm](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
+
 ### Other tools
 
 * [Husky](https://github.com/typicode/husky)
 * [Prettier](https://github.com/prettier/prettier)
-
 
 ## Articles
 
