@@ -12,9 +12,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Design system](#design-system)
   * [Testing](#testing)
   * [React](#react)
-  * [IDE](#ide)
-  * [Styling
+  * [Style](#style)
   * [Other tools](#other-tools)
+  * [IDE](#ide)
 * [Articles](#articles)
 
 ## Tools
