@@ -15,7 +15,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Style](#style)
   * [Other tools](#other-tools)
   * [IDE](#ide)
-* [Articles](#articles)
+* [Articles](#articles-books-extras)
 
 ## Tools
 
