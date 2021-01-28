@@ -13,6 +13,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Testing](#testing)
   * [React](#react)
   * [IDE](#ide)
+  * [Styling
   * [Other tools](#other-tools)
 * [Articles](#articles)
 
@@ -56,13 +57,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### React
 
+* [Repo](https://github.com/facebook/react)
 * [CRA](https://github.com/facebook/create-react-app)
 * [CRACO](https://github.com/gsoft-inc/craco)
+* [Next.js](https://github.com/vercel/next.js)
 
 ### IDE
 
 * [WebStorm](https://www.jetbrains.com/webstorm/)
 * [Material Theme UI - Theme for Webstorm](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
+
+### Style
+
+* [Styled Components](https://github.com/styled-components/styled-components)
 
 ### Other tools
 
