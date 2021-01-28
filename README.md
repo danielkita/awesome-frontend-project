@@ -5,6 +5,7 @@ A curated list of awesome libraries, guides, blogs, and other resources to creat
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 * [Tools](#tools)
+  * [TypeScript](#typescript)
   * [ESLint](#eslint)
   * [Gitflow](#gitflow)
   * [Monorepo](#monorepo)
@@ -17,12 +18,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Tools
 
+### TypeScript
+
+* [TypeScript](https://github.com/microsoft/TypeScript)
+* [Migration to TS](https://github.com/airbnb/ts-migrate)
+
 ### ESLint
 
 * [Repo](https://github.com/eslint/eslint)
 * [Install](https://eslint.org/docs/user-guide/getting-started)
 * [AirBnB rules for TS](https://github.com/iamturns/eslint-config-airbnb-typescript)
-
 
 ### Gitflow
 
@@ -34,7 +39,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### Monorepo
 
-* [TypeScript](https://github.com/microsoft/TypeScript)
 * [NX](https://github.com/nrwl/nx) - my recommendation for commercial projects
 * [NX Docs](https://nx.dev/)
 * [Lerna](https://github.com/lerna/lerna) - my recommendation for open-source projects
@@ -65,6 +69,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Husky](https://github.com/typicode/husky)
 * [Prettier](https://github.com/prettier/prettier)
 
-## Articles
+## Articles, books, extras...
 
 * [The Art of Giving and Receiving Code Reviews (Gracefully)](https://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/)
+* [TSConf 2019 Keynote - Anders Hejlsberg](https://www.youtube.com/watch?v=jmPZztKIFf4)
