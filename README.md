@@ -6,13 +6,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Index
 
-* [ESLint](#eslint)
-* [Gitflow](#gitflow)
-* [Monorepo](#monorepo)
-* [Design system](#design-system)
-* [Testing](#testing)
-* [React](#react)
-* [Other tools](#other-tools)
+* [Ecosystem](#ecosystem)
+  * [ESLint](#eslint)
+  * [Gitflow](#gitflow)
+  * [Monorepo](#monorepo)
+  * [Design system](#design-system)
+  * [Testing](#testing)
+  * [React](#react)
+  * [Other tools](#other-tools)
+* [Articles](#articles)
+
+## Tools
 
 ### ESLint
 
@@ -57,3 +61,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Husky](https://github.com/typicode/husky)
 * [Prettier](https://github.com/prettier/prettier)
 
+
+## Articles
+
+* [The Art of Giving and Receiving Code Reviews (Gracefully)](https://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/)
