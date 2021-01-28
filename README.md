@@ -4,9 +4,7 @@ A curated list of awesome libraries, guides, blogs, and other resources to creat
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
-## Index
-
-* [Ecosystem](#ecosystem)
+* [Tools](#tools)
   * [ESLint](#eslint)
   * [Gitflow](#gitflow)
   * [Monorepo](#monorepo)
