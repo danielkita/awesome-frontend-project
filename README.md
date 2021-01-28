@@ -9,6 +9,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [ESLint](#eslint)
 * [Gitflow](#gitflow)
 * [Monorepo](#monorepo)
+* [Design system](#design-system)
 * [React](#react)
 * [Other tools](#other-tools)
 
@@ -33,6 +34,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [NX](https://github.com/nrwl/nx) - my recommendation for commercial projects
 * [NX Docs](https://nx.dev/)
 * [Lerna](https://github.com/lerna/lerna) - my recommendation for open-source projects
+
+### Design system
+
+* [Storybook](https://github.com/storybookjs/storybook)
 
 ### React
 
