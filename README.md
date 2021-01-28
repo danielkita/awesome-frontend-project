@@ -10,6 +10,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Gitflow](#gitflow)
 * [Monorepo](#monorepo)
 * [Design system](#design-system)
+* [Testing](#testing)
 * [React](#react)
 * [Other tools](#other-tools)
 
@@ -38,6 +39,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 ### Design system
 
 * [Storybook](https://github.com/storybookjs/storybook)
+
+### Testing
+
+* [Jest](https://github.com/facebook/jest)
+* [React Testing Library](https://github.com/testing-library/react-testing-library)
+* [Mock Service Worker](https://github.com/mswjs/msw)
+* [Cypress](https://github.com/cypress-io/cypress)
 
 ### React
 
