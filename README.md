@@ -71,5 +71,5 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Articles, books, extras...
 
-* [The Art of Giving and Receiving Code Reviews (Gracefully)](https://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/)
+* [The Art of Giving and Receiving Code Reviews (Gracefully) - Alexandra Hill](https://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/)
 * [TSConf 2019 Keynote - Anders Hejlsberg](https://www.youtube.com/watch?v=jmPZztKIFf4)
