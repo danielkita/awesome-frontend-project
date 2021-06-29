@@ -11,7 +11,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Monorepo](#monorepo)
   * [Design system](#design-system)
   * [Testing](#testing)
-  * [React](#react)
+  * [React boilerplate](#react-boilerplate)
   * [Client-State management](#client-state-management)
   * [Server-State management](#server-state-management)
   * [Style](#style)
