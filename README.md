@@ -65,7 +65,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Cypress](https://github.com/cypress-io/cypress)
 
 
-### [React](https://github.com/facebook/react)
+### [React](https://github.com/facebook/react) boilerplate
 Choose one:
 * [Vite.js](https://github.com/vitejs/vite)
 * [Next.js](https://github.com/vercel/next.js) (SSR)
