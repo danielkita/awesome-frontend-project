@@ -12,6 +12,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
   * [Design system](#design-system)
   * [Testing](#testing)
   * [React](#react)
+  * [Client-State management](#client-state-management)
+  * [Server-State management](#server-state-management)
   * [Style](#style)
   * [Other tools](#other-tools)
   * [IDE](#ide)
@@ -19,16 +21,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Tools
 
+
 ### TypeScript
 
 * [TypeScript](https://github.com/microsoft/TypeScript)
 * [Migration to TS](https://github.com/airbnb/ts-migrate)
+
 
 ### ESLint
 
 * [Repo](https://github.com/eslint/eslint)
 * [Install](https://eslint.org/docs/user-guide/getting-started)
 * [AirBnB's rules for TS](https://github.com/iamturns/eslint-config-airbnb-typescript)
+
 
 ### Gitflow
 
@@ -39,15 +44,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [cz-lerna-changelog](https://github.com/atlassian/cz-lerna-changelog)
 * [.gitignore](https://gist.github.com/markbrouch/1026ed545d306febcea4)
 
+
 ### Monorepo
 
 * [NX](https://github.com/nrwl/nx) - my recommendation for commercial projects
 * [NX Docs](https://nx.dev/)
 * [Lerna](https://github.com/lerna/lerna) - my recommendation for open-source projects
 
+
 ### Design system
 
 * [Storybook](https://github.com/storybookjs/storybook)
+
 
 ### Testing
 
@@ -56,26 +64,42 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [Mock Service Worker](https://github.com/mswjs/msw)
 * [Cypress](https://github.com/cypress-io/cypress)
 
-### React
 
-* [Repo](https://github.com/facebook/react)
-* [CRA](https://github.com/facebook/create-react-app)
-* [CRACO](https://github.com/gsoft-inc/craco)
-* [Next.js](https://github.com/vercel/next.js)
+### [React](https://github.com/facebook/react)
+Choose one:
+* [Vite.js](https://github.com/vitejs/vite)
+* [Next.js](https://github.com/vercel/next.js) (SSR)
+* [CRA](https://github.com/facebook/create-react-app) + [CRACO](https://github.com/gsoft-inc/craco)
+
+
+### Client-State management
+Choose one:
+* [Zustand](https://github.com/pmndrs/zustand)
+* [Jotai](https://github.com/pmndrs/jotai)
+* [Recoil](https://github.com/facebookexperimental/Recoil)
+* [Redux](https://github.com/reduxjs/redux) (you might not need a global state)
+
+
+### Server-State management
+* [React-query](https://github.com/tannerlinsley/react-query)
+
 
 ### Style
 
 * [Styled Components](https://github.com/styled-components/styled-components)
+
 
 ### Other tools
 
 * [Husky](https://github.com/typicode/husky)
 * [Prettier](https://github.com/prettier/prettier)
 
+
 ### IDE
 
 * [WebStorm](https://www.jetbrains.com/webstorm/)
 * [Material Theme UI - Theme for Webstorm](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
+
 
 ## Articles, books, extras...
 
