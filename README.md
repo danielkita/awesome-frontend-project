@@ -47,8 +47,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ### Monorepo
 
-* [NX](https://github.com/nrwl/nx) - my recommendation for commercial projects
-* [NX Docs](https://nx.dev/)
+* [NX](https://github.com/nrwl/nx) - my recommendation for commercial projects ([Docs](https://nx.dev/))
 * [Lerna](https://github.com/lerna/lerna) - my recommendation for open-source projects
 
 
